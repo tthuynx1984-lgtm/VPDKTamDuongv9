@@ -1,0 +1,18 @@
+CÀI VPĐK TAM DƯƠNG LÊN ĐIỆN THOẠI (không cần cửa hàng ứng dụng)
+
+Địa chỉ: https://<tên-tài-khoản>.github.io/<tên-repo>/   (trang GitHub Pages của bạn)
+
+IPHONE / IPAD (bắt buộc dùng Safari)
+1. Mở địa chỉ trên bằng Safari.
+2. Bấm nút Chia sẻ (hình vuông có mũi tên lên) > "Thêm vào Màn hình chính" (Add to Home Screen) > Thêm.
+3. Biểu tượng VPĐK Tam Dương xuất hiện ngoài màn hình, mở ra toàn màn hình như ứng dụng.
+
+ANDROID (dùng Chrome)
+1. Mở địa chỉ trên bằng Chrome.
+2. Bấm dấu ba chấm > "Cài đặt ứng dụng" (Install app) hoặc "Thêm vào màn hình chính".
+3. Biểu tượng xuất hiện trong danh sách ứng dụng và màn hình chính.
+
+LƯU Ý
+- Dữ liệu (hồ sơ, văn bản bổ sung, khóa API) lưu riêng trong từng thiết bị. Trên iPhone, bản mở từ biểu tượng ngoài màn hình có kho dữ liệu riêng, tách khỏi Safari: nạp lại dữ liệu trong bản đó.
+- Sau lần mở đầu có mạng, công cụ mở được cả khi mất mạng (trừ Tư vấn bằng Claude, tải thư viện đọc PDF/Word/Excel và Google Drive).
+- Muốn có file .apk cài trực tiếp cho Android: vào pwabuilder.com, dán địa chỉ trang, chọn Android để tải gói. File dùng cho iPhone phải qua tài khoản Apple Developer (99 USD/năm) và máy Mac.
